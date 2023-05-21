@@ -1,0 +1,10 @@
+variable "system_name" {}
+variable "environment" {}
+variable "vpcid" {}
+variable "public1" {}
+variable "public2" {}
+variable "container-name" {}
+variable "container-image" {}
+variable "app-port" {}
+variable "lb_sg" {}
+variable "targetgroup_arn" {}
